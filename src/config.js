@@ -3,7 +3,9 @@
 // COMENTA O DESCOMENTA LA QUE QUIERAS USAR
 
 // OPCIÓN A: MODO NUBE (Producción)
-export const BASE_URL = 'https://spring.informaticapp.com:2202';
+// En tu código donde llamas al backend
+export const BASE_URL = 'https://corsproxy.io/?http://spring.informaticapp.com:2063';
+
 
 // OPCIÓN B: MODO LOCAL (Tu computadora)
 // export const BASE_URL = 'http://localhost:8080';
