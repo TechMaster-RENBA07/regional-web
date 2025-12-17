@@ -3,7 +3,7 @@
 // COMENTA O DESCOMENTA LA QUE QUIERAS USAR
 
 // OPCIÓN A: MODO NUBE (Producción)
-export const BASE_URL = 'http://spring.informaticapp.com:2202';
+export const BASE_URL = 'https://spring.informaticapp.com:2202';
 
 // OPCIÓN B: MODO LOCAL (Tu computadora)
 // export const BASE_URL = 'http://localhost:8080';
